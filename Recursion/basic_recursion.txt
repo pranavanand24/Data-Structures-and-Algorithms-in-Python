@@ -1,0 +1,7 @@
+def recursionmethod(parameters):
+    if exit from condition satisfied:
+        return some value
+
+    
+    else:
+        recursionmethod(modified parameters)
