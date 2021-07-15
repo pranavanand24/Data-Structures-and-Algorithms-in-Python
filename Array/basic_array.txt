@@ -1,0 +1,10 @@
+- Array can store data of specific type
+
+- Elements of can array are located in contiguous way
+
+(By contiguous, we mean the elements of the array are
+adjacent to one another in memory with no gaps between them)
+
+- Each Elements of an array has a unique index
+
+- The size of an array is predefined and can't be modified 
