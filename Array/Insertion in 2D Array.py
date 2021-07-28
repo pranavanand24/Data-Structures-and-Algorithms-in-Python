@@ -7,4 +7,4 @@ newTwoDArray = np.insert(twoDArray, 0, [[1,2,3,4]], axis=1)
 print(newTwoDArray)
 
 # Axis = 1 for column and 0 for row
-# Time Complexity - 0(MN)
+# Time Complexity - 0(mn)
